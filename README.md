@@ -1,2 +1,2 @@
 # Introduction to Pandas.DataFrame
-## A practical start to understanding DataFrames
+## A practical start for understanding DataFrames
