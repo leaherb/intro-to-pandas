@@ -1,11 +1,1 @@
-UFO Sightings data source and description: https://www.kaggle.com/NUFORC/ufo-sightings
-
-Data made available via Kaggle by:
-   National UFO Reporting Center (NUFORC)
-   Davenport, Washington, United States
-   http://www.nuforc.org/
-   
-Data files:
-
-* complete.csv
-* scrubbed.csv
+Data files here are simplified versions of Titanic data used by many data science students: https://www.kaggle.com/c/titanic/data
