@@ -1,2 +1,2 @@
-# Introduction to Pandas
-## Exploring Python Pandas capabilities using UFO Sightings data
+# Introduction to Pandas.DataFrame
+## A practical start to understanding DataFrames
